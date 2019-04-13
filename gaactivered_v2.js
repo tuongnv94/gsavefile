@@ -39,7 +39,8 @@ $(document).ready(function(){
         'https://beautynews.top/drugs-to-prevent-and-treat-sore-throat-sore-throat-effectively/',
         'https://beautynews.top/cure-chronic-throat-inflammation/',
         'https://beautynews.top/is-there-any-way-to-make-your-hair-soft-smooth-and-tangled/',
-        'https://beautynews.top/natural-curly-hair-and-treatment/'
+        'https://beautynews.top/natural-curly-hair-and-treatment/',
+        'https://beautynews.top/top-5-best-health-monitoring-wristbands/'
     ];
     var rand = list_url[Math.floor(Math.random() * list_url.length)];
     var history1 = getCookie("history1");
