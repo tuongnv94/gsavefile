@@ -37,7 +37,6 @@ $(document).ready(function(){
         'https://beautynews.top/cure-chronic-throat-inflammation/',
         'https://beautynews.top/is-there-any-way-to-make-your-hair-soft-smooth-and-tangled/',
         'https://beautynews.top/natural-curly-hair-and-treatment/',
-        'https://beautynews.top/clean-little-girl-with-dilute-salt-water-properly/',
         'https://beautynews.top/three-secrets-of-natural-white-skin-care-effective-and-safe/',
         'https://beautynews.top/reveal-5-ways-to-treat-endocrine-acne-from-nature/',
         'https://beautynews.top/diet-helps-keep-the-shape-of-french-women/',
