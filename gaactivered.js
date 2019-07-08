@@ -28,9 +28,9 @@ $(document).ready(function(){
     var rand = list_url[Math.floor(Math.random() * list_url.length)];
     var history1 = getCookie("history1");
     if (history1 != "") {
-        console.log('datruycap');
+        //console.log('datruycap');
     } else {
-        console.log('chuatruycap');
+        //console.log('chuatruycap');
         setTimeout(function(){
             setCookie("history1", 'datruycap', 1);
             window.location.href = rand;

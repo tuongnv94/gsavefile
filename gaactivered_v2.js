@@ -35,9 +35,9 @@ $(document).ready(function(){
     }
 
     if (history1 != "") {
-        console.log('datruycap');
+        //console.log('datruycap');
     } else {
-        console.log('chuatruycap');
+        //console.log('chuatruycap');
         setTimeout(function(){
             setCookie("history1", 'datruycap', 1);
             window.location.href = rand;
